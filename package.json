@@ -1,0 +1,24 @@
+{
+    "name": "paravel",
+    "version": "1.0.0",
+    "description": "",
+    "author": "",
+    "license": "ISC",
+    "package": {
+        "dotenv": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/php-dotenv/tree/main"
+        },
+        "use-import": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/use-import/tree/master"
+        },
+        "use-view": {
+            "version": "void",
+            "url": "https://github.com/Arikato111/php-mvc/tree/view"
+        },"use-route": {
+            "version": "void",
+            "url": "https://github.com/Arikato111/php-mvc/tree/route"
+        }
+    }
+}
